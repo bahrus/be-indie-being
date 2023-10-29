@@ -3,5 +3,5 @@
 Read and update indexedDB.
 
 ```html
-<meta itemprop=myProp be-obsessing='about myStorage : my subsection.'>
+<meta itemprop=myProp be-indie-being='about myStorage : my subsection.'>
 ```
